@@ -1,7 +1,7 @@
 ### Hi there 👋 / Olar 👋
 
 My name is João Víctor de Araujo Lima.
-- 🔭 I’m currently working on _Math Anxiety in deaf students discourse_
+- 🔭 I’m currently researching _Math Anxiety in deaf students discourse_
 - 🌱 I’m currently learning _English_ and _Libras_
 - ⚡ I'm currently improving my programming skills (*C* and *R* languages)
 - 📫 How to reach me: https://t.me/joaovic_araujo
