@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 / Olar 👋
 
 My name is João Víctor de Araujo Lima.
 - 🔭 I’m currently working on _Math Anxiety in deaf students discourse_
