@@ -3,27 +3,27 @@
 <h1 align="center">Hi there 👋 / Salut 👋 / Olar 👋</h1>
 
 <h3 align="center">My name is João Víctor</h3>
-<p>- 🔭 I'm currently working/researching as an _UX Researcher_, _accessibility analyst_ and with _Data Visualization form Brazilian public data_ </p>
-<p>- 💬 I can speak *Portuguese*, *English* and *Brazilian Sign Language (Libras)* :accessibility: </p>
-<p>- 🌱 I’m currently learning _French_, _Unity_, _SQL_, _HTML_, _CSS_ and _JavaScript_ </p>
-<p>- ⚡ I'm currently improving my programming skills (*R*, *Python* and *C/C#* languages) and *Data Scientist Skills* </p>
+<p>- 🔭 I'm currently working/researching as an <i>UX Researcher</i>, <i>accessibility analyst</i> and with <i>Data Visualization form Brazilian public data</i> </p>
+<p>- 💬 I can speak <b>Portuguese</b>, <b>English</b> and <b>Brazilian Sign Language (Libras)</b> :accessibility: </p>
+<p>- 🌱 I’m currently learning <i>French</i>, <i>Unity</i>, <i>SQL</i>, <i>HTML</i>, <i>CSS</i> and <i>JavaScript</i> </p>
+<p>- ⚡ I'm currently improving my programming skills (<b>R</b>, <b>Python</b> and <b>C/C#</b> languages) and <b>Data Scientist Skills</b> </p>
 <p>- 📫 How to reach me: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
-<p>- 😄 Pronouns: *He/Him* </p>
+<p>- 😄 Pronouns: <b>He/Him</b> </p>
 
 <h3 align="center">Je m'appelle João Víctor</h3>
-<p>- 🔭 Je travaille/recherche actuellement en tant que _chercheur en UX_, _analyste en accessibilité_ et avec _visualisation de données à partir de données publiques brésiliennes_ </p>
-<p>- 💬 Je peux parler *le portugais*, *l'anglais* et *la langue des signes brésilienne (Libras)* :accessibility: </p>
-<p>- 🌱 J'apprends actuellement le _français_, _Unity_, _SQL_, _HTML_, _CSS_ et _JavaScript_ </p>
-<p>- ⚡ J'améliore actuellement mes compétences en programmation (langages *R*, *Python* et *C/C#*) et *Compétences des scientifiques de données* </p>
+<p>- 🔭 Je travaille/recherche actuellement en tant que <i>chercheur en UX</i>, <i>analyste en accessibilité</i> et avec <i>visualisation de données à partir de données publiques brésiliennes</i> </p>
+<p>- 💬 Je peux parler <b>le portugais</b>, <b>l'anglais</b> et <b>la langue des signes brésilienne (Libras)</b> :accessibility: </p>
+<p>- 🌱 J'apprends actuellement le <i>français</i>, <i>Unity</i>, <i>SQL</i>, <i>HTML</i>, <i>CSS</i> et <i>JavaScript</i> </p>
+<p>- ⚡ J'améliore actuellement mes compétences en programmation (langages <b>R</b>, <b>Python</b> et <b>C/C#</b>) et <b>Compétences des scientifiques de données</b> </p>
 <p>- 📫 Comment me contacter: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 
 <h3 align="center">Me chamo João Víctor</h3>
-<p>- 🔭 Atualmente estou trabalhando/estudando como _Pesquisador de Experiência do Usuário (UX Researcher)_, _Analista de Acessibilidade_ e com _Visualização de Dados a partir de dados públicos do Brasil (IBGE)_ </p>
-<p>- 💬 Eu falo *Português*, *Inglês* e *Língua Brasileira de Sinais (Libras)* :accessibility: </p>
-<p>- 🌱 Atualmente estou aprendendo _Francês_, _Unity_, _SQL_, _HTML_, _CSS_ and _JavaScript_ </p>
-<p>- ⚡ Tenho aprimorado minhas habilidades de programação (*R*, *Python* e nas linguagens *C/C#*) e como *Cientista de Dados (Data Scientist)* </p>
+<p>- 🔭 Atualmente estou trabalhando/estudando como <i>Pesquisador de Experiência do Usuário (UX Researcher)</i>, <i>Analista de Acessibilidade</i> e com <i>Visualização de Dados a partir de dados públicos do Brasil (IBGE)</i> </p>
+<p>- 💬 Eu falo <b>Português</b>, <b>Inglês</b> e <b>Língua Brasileira de Sinais (Libras)</b> :accessibility: </p>
+<p>- 🌱 Atualmente estou aprendendo <i>Francês</i>, <i>Unity</i>, <i>SQL</i>, <i>HTML</i>, <i>CSS</i> e <i>JavaScript</i> </p>
+<p>- ⚡ Tenho aprimorado minhas habilidades de programação (<b>R</b>, <b>Python</b> e nas linguagens <b>C/C#</b>) e como <b>Cientista de Dados (Data Scientist)</b> </p>
 <p>- 📫 Como entrar em contato comigo: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
-<p>- 😄 Pronomes: *Ele/Dele* </p>
+<p>- 😄 Pronomes: <b>Ele/Dele</b> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
