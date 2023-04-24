@@ -1,33 +1,40 @@
 <img align="center" alt="Joao Victor's banner"  src="https://github.com/xuaun/xuaun/blob/main/Capa-Joao-Victor.png" />
 
-### Hi there 👋 / Salut 👋 / Olar 👋
+<h1 align="center">Hi there 👋 / Salut 👋 / Olar 👋</h1>
 
-My name is João Víctor de Araujo Lima.
-- 🔭 I’m currently researching _Data Visualization form Brazilian public data (PNS)_ and _UX_
-- 💬 I can speak Portuguese, English and Brazilian Sign Language (Libras)
-- 🌱 I’m currently learning _French_, _Unity_, _SQL_ and _Java_ 
+<h3 align="center">My name is João Víctor</h3>
+- 🔭 I'm currently working/researching as an _UX Researcher_, _accessibility analyst_ and with _Data Visualization form Brazilian public data_
+- 💬 I can speak *Portuguese*, *English* and *Brazilian Sign Language (Libras)* :accessibility:
+- 🌱 I’m currently learning _French_, _Unity_, _SQL_, _HTML_, _CSS_ and _JavaScript_
 - ⚡ I'm currently improving my programming skills (*R*, *Python* and *C/C#* languages) and *Data Scientist Skills*
-- 📫 How to reach me: https://t.me/joaovic_araujo
+- 📫 How to reach me: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> </a>
 - 😄 Pronouns: *He/Him*
 
-Je m'appelle João Víctor de Araujo Lima.
-- 🔭 J'étudie actuellement _La visualisation de données à partir de données publiques brésiliennes (PNS)_ et _UX_
-- 💬 Je peux parler le portugais, l'anglais et la langue des signes brésilienne (Libras)
-- 🌱 J'apprends actuellement le _français_, _Unity_, _SQL_ et _Java_
+<h3 align="center">Je m'appelle João Víctor</h3>
+- 🔭 Je travaille/recherche actuellement en tant que _chercheur en UX_, _analyste en accessibilité_ et avec _visualisation de données à partir de données publiques brésiliennes_
+- 💬 Je peux parler *le portugais*, *l'anglais* et *la langue des signes brésilienne (Libras)* :accessibility:
+- 🌱 J'apprends actuellement le _français_, _Unity_, _SQL_, _HTML_, _CSS_ et _JavaScript_
 - ⚡ J'améliore actuellement mes compétences en programmation (langages *R*, *Python* et *C/C#*) et *Compétences des scientifiques de données*
-- 📫 Comment me joindre : https://t.me/joaovic_araujo
+- 📫 Comment me contacter: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> </a>
+
+<h3 align="center">Me chamo João Víctor</h3>
+- 🔭 Atualmente estou trabalhando/estudando como _Pesquisador de Experiência do Usuário (UX Researcher)_, _Analista de Acessibilidade_ e com _Visualização de Dados a partir de dados públicos do Brasil (IBGE)_
+- 💬 Eu falo *Português*, *Inglês* e *Língua Brasileira de Sinais (Libras)* :accessibility:
+- 🌱 Atualmente estou aprendendo _Francês_, _Unity_, _SQL_, _HTML_, _CSS_ and _JavaScript_
+- ⚡ Tenho aprimorado minhas habilidades de programação (*R*, *Python* e nas linguagens *C/C#*) e como *Cientista de Dados (Data Scientist)*
+- 📫 Como entrar em contato comigo: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> </a>
+- 😄 Pronomes: *Ele/Dele*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/joao-victor-araujo-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-victor-araujo-lima" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R language" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuaun&show_icons=true&locale=en&layout=compact" alt="xuaun" /></p>
 
 <!--
 **xuaun/xuaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
