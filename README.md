@@ -1,3 +1,5 @@
+<img align="center" alt="Joao Victor's banner"  src="https://github.com/xuaun/xuaun/blob/main/Capa-Joao-Victor.png" />
+
 ### Hi there 👋 / Salut 👋 / Olar 👋
 
 My name is João Víctor de Araujo Lima.
