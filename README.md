@@ -54,8 +54,8 @@
 
 <p align="center">
   <a href="https://github.com/xuaun">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuaun&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="top programming languages ​​i used on github" title="Top Programming Languages"/>
-  </br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuaun&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=false" alt="Some of João's statuses on GitHub" title="Statuses on GitHub"/></a>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuaun&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="top programming languages ​​I used on github" title="Top Programming Languages"/>
+  <!-- </br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuaun&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=false" alt="Some of João's statuses on GitHub" title="Statuses on GitHub"/></a> -->
 </p>
 
 <!--
