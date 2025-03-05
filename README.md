@@ -1,4 +1,4 @@
-<img align="center" alt="Joao Victor's banner"  src="https://github.com/xuaun/xuaun/blob/main/Capa-Joao-Victor.png" title="João Víctor's banner" />
+<img align="center" alt="Joao Victor's banner"  src="./src/img/banner-joao-victor.png" title="João Víctor's banner" />
 
 <h1 align="center">Hi there 👋 / Salut 👋 / Olar 👋</h1>
 
@@ -27,8 +27,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/joao-victor-araujo-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin page" title="Linkedin" height="30" width="40" /></a>
-  <a href="https://www.datacamp.com/portfolio/joaovictor-ne" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6276968?v=4" alt="My Portfolio page at DataCamp" title="Portfolio at DataCamp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joao-victor-araujo-lima" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin page" title="Linkedin" height="30" width="30" /></a>
+  <a href="https://www.datacamp.com/portfolio/joaovictor-ne" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/6276968?v=4" alt="My Portfolio page at DataCamp" title="Portfolio at DataCamp" height="30" width="30" /></a>
+  <a href="https://www.frontendmentor.io/profile/xuaun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/frontendmentorio/four-card-feature-section/refs/heads/master/images/favicon-32x32.png" alt="My Portfolio page at Frontend Mentor" title="Portfolio at Frontend Mentor" height="30" width="30" /></a>
 </p>
 
 <h3 align="center">My certifications / Badges:</h3>
@@ -40,16 +41,27 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/48f24dccd4e169118d17bab998c3d276e95167df/css.svg" alt="css3" title="CSS3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="./src/img/logo_dark.svg" alt="react" title="React" width="40" height="40"/> </a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://vite.dev/logo.svg" alt="vite" title="Vite" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" title="Redux" width="40" height="40"/> </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" title="Jest" width="40" height="40"/> </a>
+  <br />
   <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R language" title="R language" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="SQL - PostgreSQL" title="SQL - PostgreSQL" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" alt="Power BI" title="Power BI" width="40" height="40"/> </a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="40" height="40"/> </a> 
+  <br />
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C language" width="40" height="40"/> </a>   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" title="Unity" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" title="Unity" width="40" height="40"/> </a>
+  <br />
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" title="GitHub" width="40" height="40"/> </a>   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
