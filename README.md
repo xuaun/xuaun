@@ -7,7 +7,7 @@
 <p>- 💬 I can speak <b>Portuguese</b>, <b>English</b> and <b>Brazilian Sign Language (Libras)</b> :accessibility: </p>
 <p>- 🌱 I’m currently interested in <i>French</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ I'm currently improving my Web Development skills (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>), and my Data Analisys skills (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b> languages) </p>
-<p>- 📫 How to reach me: <a href="https://t.me/joaovic_araujo" style="color: orange"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
+<p>- 📫 How to reach me: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 <p>- 😄 Pronouns: <b>He/Him</b> </p>
 
 <h3 align="center">Je m'appelle João Víctor</h3>
@@ -15,38 +15,38 @@
 <p>- 💬 Je peux parler <b>le portugais</b>, <b>l'anglais</b> et <b>la langue des signes brésilienne (Libras)</b> :accessibility: </p>
 <p>- 🌱 J'apprends actuellement le <i>français</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ J'ai amélioré mes compétences en développement Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> et en analyse de données (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
-<p>- 📫 Comment me contacter: <a href="https://t.me/joaovic_araujo" style="color: orange"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
+<p>- 📫 Comment me contacter: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 
 <h3 align="center">Me chamo João Víctor</h3>
 <p>- 🔭 Atualmente estou estudando as áreas de: <i>Desenvolvimento Web (Front-end)</i>, <i>Pesquisa de Experiência do Usuário (UX Researcher)</i>, <i>Análise de Dados</i> e <i>Acessibilidade Digital</i> </p>
 <p>- 💬 Eu falo <b>Português</b>, <b>Inglês</b> e <b>Língua Brasileira de Sinais (Libras)</b> :accessibility: </p>
 <p>- 🌱 Atualmente estou interessado em <i>Francês</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ Tenho aprimorado minhas habilidades de <i> Desenvolvimento Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> e de Análise de Dados (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
-<p>- 📫 Como entrar em contato comigo: <a href="https://t.me/joaovic_araujo" style="color: orange"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
+<p>- 📫 Como entrar em contato comigo: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 <p>- 😄 Pronomes: <b>Ele/Dele</b> </p>
 
 <h3 align="center">Personal web development projects:</h3>
 <div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center">
   <div>
-    <a href="https://github.com/xuaun/personal-blog-challenge" target="_blank" align="center" style="color: orange"> <h4>Personal Blog Challenge</h4> </a>
+    <p align="center"><a href="https://github.com/xuaun/personal-blog-challenge" target="_blank" align="center"> Personal Blog Challenge </a></p>
     <p align="center">
       <a href="https://github.com/xuaun/personal-blog-challenge" target="_blank"><img src="https://github.com/xuaun/personal-blog-challenge/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Personal Blog Challenge live page" title="Personal Blog Challenge live page" width="200" /></a>
     </p>
   </div>
   <div>
-    <a href="https://github.com/xuaun/fetch-user-GitHub-API/" target="_blank" align="center" style="color: orange"> <h4>Fetch User GitHub API</h4> </a>
+    <p align="center"><a href="https://github.com/xuaun/fetch-user-GitHub-API/" target="_blank" align="center"> Fetch User GitHub API </a></p>
     <p align="center">
       <a href="https://github.com/xuaun/fetch-user-GitHub-API/" target="_blank"><img src="https://github.com/xuaun/fetch-user-GitHub-API/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Search GitHub User with API live page" title="Search GitHub User with API live page" width="200" /></a>
     </p>
   </div>
   <div>
-    <a href="https://github.com/xuaun/advice-generator-app" target="_blank" align="center" style="color: orange"> <h4>Advice Generator App</h4> </a>
+    <p align="center"><a href="https://github.com/xuaun/advice-generator-app" target="_blank" align="center"> Advice Generator App </a></p>
     <p align="center">
       <a href="https://github.com/xuaun/advice-generator-app" target="_blank"><img src="https://github.com/xuaun/advice-generator-app/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Advice Generator App live page" title="Advice Generator App live page" width="200" /></a>
     </p>
   </div>
   <div>
-    <a href="https://github.com/xuaun/DevQuest-React-Base" target="_blank" align="center" style="color: orange"> <h4>DevQuest - React Component</h4> </a>
+    <p align="center"><a href="https://github.com/xuaun/DevQuest-React-Base" target="_blank" align="center"> DevQuest - React Component </a></p>
     <p align="center">
       <a href="https://github.com/xuaun/DevQuest-React-Base" target="_blank"><img src="https://github.com/xuaun/DevQuest-React-Base/blob/main/src/design/mobile-screenshot.png?raw=true" alt="React Component live page" title="React Component live page" width="200" /></a>
     </p>
