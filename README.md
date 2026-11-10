@@ -1,100 +1,155 @@
-<img align="center" alt="Joao Victor's banner"  src="./src/img/banner-joao-victor.png" title="João Víctor's banner" />
+# João Araujo
 
-<h1 align="center">Hi there 👋 / Salut 👋 / Olar 👋</h1>
+**Digital Accessibility Specialist & Front-End Developer** based in São Carlos, SP, Brazil.
 
-<h3 align="center">My name is João Víctor</h3>
-<p>- 🔭 I'm currently studying <i>Web Development</i>, <i>UX Researcher</i>, <i>Data Analisys</i>, and <i>Digital Accessibility</i> </p>
-<p>- 💬 I can speak <b>Portuguese</b>, <b>English</b> and <b>Brazilian Sign Language (Libras)</b> :accessibility: </p>
-<p>- 🌱 I’m currently interested in <i>French</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
-<p>- ⚡ I'm currently improving my Web Development skills (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>), and my Data Analisys skills (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b> languages) </p>
-<p>- 😄 Pronouns: <b>He/Him</b> </p>
+This page is in English first. <a href="#português" hreflang="pt-BR" lang="pt-BR">A versão em português vem logo depois.</a>
 
-<h3 align="center">Je m'appelle João Víctor</h3>
-<p>- 🔭 J'étudie actuellement les domaines suivants : <i>Développement Web (Front-end)</i>, <i>Recherche sur l'expérience utilisateur (UX Researcher)</i>, <i>Analyse de données</i> et <i>Accessibilité numérique</i> </p>
-<p>- 💬 Je peux parler <b>le portugais</b>, <b>l'anglais</b> et <b>la langue des signes brésilienne (Libras)</b> :accessibility: </p>
-<p>- 🌱 J'apprends actuellement le <i>français</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
-<p>- ⚡ J'ai amélioré mes compétences en développement Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> et en analyse de données (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
+## English
 
-<h3 align="center">Me chamo João Víctor</h3>
-<p>- 🔭 Atualmente estou estudando as áreas de: <i>Desenvolvimento Web (Front-end)</i>, <i>Pesquisa de Experiência do Usuário (UX Researcher)</i>, <i>Análise de Dados</i> e <i>Acessibilidade Digital</i> </p>
-<p>- 💬 Eu falo <b>Português</b>, <b>Inglês</b> e <b>Língua Brasileira de Sinais (Libras)</b> :accessibility: </p>
-<p>- 🌱 Atualmente estou interessado em <i>Francês</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
-<p>- ⚡ Tenho aprimorado minhas habilidades de <i> Desenvolvimento Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> e de Análise de Dados (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
-<p>- 😄 Pronomes: <b>Ele/Dele</b> </p>
+### About me
 
-<h3 align="center">Personal web development projects:</h3>
-<div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center">
-  <div>
-    <p align="center"><a href="https://github.com/xuaun/personal-blog-challenge" target="_blank" align="center"> Personal Blog Challenge </a></p>
-    <p align="center">
-      <a href="https://github.com/xuaun/personal-blog-challenge" target="_blank"><img src="https://github.com/xuaun/personal-blog-challenge/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Personal Blog Challenge live page" title="Personal Blog Challenge live page" width="200" /></a>
-    </p>
-  </div>
-  <div>
-    <p align="center"><a href="https://github.com/xuaun/fetch-user-GitHub-API/" target="_blank" align="center"> Fetch User GitHub API </a></p>
-    <p align="center">
-      <a href="https://github.com/xuaun/fetch-user-GitHub-API/" target="_blank"><img src="https://github.com/xuaun/fetch-user-GitHub-API/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Search GitHub User with API live page" title="Search GitHub User with API live page" width="200" /></a>
-    </p>
-  </div>
-  <div>
-    <p align="center"><a href="https://github.com/xuaun/advice-generator-app" target="_blank" align="center"> Advice Generator App </a></p>
-    <p align="center">
-      <a href="https://github.com/xuaun/advice-generator-app" target="_blank"><img src="https://github.com/xuaun/advice-generator-app/blob/main/src/design/mobile-screenshot.png?raw=true" alt="Advice Generator App live page" title="Advice Generator App live page" width="200" /></a>
-    </p>
-  </div>
-  <div>
-    <p align="center"><a href="https://github.com/xuaun/DevQuest-React-Base" target="_blank" align="center"> DevQuest - React Component </a></p>
-    <p align="center">
-      <a href="https://github.com/xuaun/DevQuest-React-Base" target="_blank"><img src="https://github.com/xuaun/DevQuest-React-Base/blob/main/src/design/mobile-screenshot.png?raw=true" alt="React Component live page" title="React Component live page" width="200" /></a>
-    </p>
-  </div>
+I have worked in digital accessibility for more than six years. I audit web and mobile products against the Web Content Accessibility Guidelines (WCAG) 2.2, level AA, and test them with the assistive technologies people actually use: NVDA, JAWS, VoiceOver and TalkBack. I document each issue with reproduction steps and severity, then write code-level fixes that development teams can apply: semantic HTML, ARIA, focus management and color contrast.
+
+I am also a front-end developer, so I turn accessibility requirements into specs, acceptance criteria and working code. I am fluent in Brazilian Sign Language (Libras) and a co-inventor of an assistive technology for deaf signers that is patented in five countries.
+
+### What I work with
+
+- **Accessibility:** manual and automated WCAG 2.2 AA audits, ARIA, keyboard navigation, focus management, color contrast, remediation specs and acceptance criteria.
+- **Assistive technology and testing tools:** NVDA, JAWS, VoiceOver, TalkBack, axe, Lighthouse and Accessibility Scanner, on the web, iOS and Android.
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Jest and Git.
+- **Inclusive research:** usability testing with people with disabilities, user experience (UX) research and accessibility training.
+- **Data:** Python, R, SQL and Power BI.
+
+### Experience
+
+- **Accessibility Testing Specialist**, Keeggo (client: Caixa). July 2026 to present. WCAG 2.2 AA audits of web and mobile banking apps, screen reader and keyboard-only testing, remediation specs and team training.
+- **Course Instructor**, Federal University of São Carlos (UFSCar), distance education. December 2025 to present. I teach in the Specialization in Deaf Education: mathematics teaching for the deaf, and Libras and Portuguese translation and interpretation for the exact sciences.
+- **Quantitative UX Researcher and Digital Accessibility Consultant**, FIPT (client: Lenovo). August 2021 to July 2026. UX research and specifications for accessible features, usability tests and bilingual (Libras and Portuguese) surveys with deaf participants, and accessibility training.
+- **Math Content Quality Assurance Consultant**, Duolingo. April to November 2024. Accessibility testing of courses on web and mobile with screen readers, plus quality assurance and localization for the launch of Duolingo Math in Portuguese.
+- **Quantitative UX Researcher**, Avenue Code (client: Braskem). May to August 2024. Usability tests, user interviews and UX metrics dashboards.
+- **Full Stack Developer**, <span lang="pt-BR">LUZ Soluções Financeiras</span>. May to August 2025. Process automation and testing with Python and Django.
+
+### Patent and research
+
+- Co-inventor of a virtual sign language system, an assistive technology for deaf signers patented in Brazil, the United States, the European Union, China and Japan. Read [United States patent US11836299B1 on Google Patents](https://patents.google.com/patent/US11836299B1/en) or the [Brazilian publication BR1020230205445A2 on Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
+- Master's dissertation: "Reflections and possibilities on the quantification of signing deaf people in Brazilian census surveys" (UFSCar, 2023).
+- Article: "Acceptance Factors of a Technology for Textual Production among Deaf Users (UTAUT2)".
+
+### Front-end projects
+
+- [Personal blog](https://github.com/xuaun/personal-blog-challenge): a multi-page blog with a color theme switcher and a validated newsletter form, built with semantic HTML, CSS Grid and JavaScript for a Frontend Mentor challenge. [Open the Personal blog live page](https://xuaun.github.io/personal-blog-challenge/).
+- [GitHub user search](https://github.com/xuaun/fetch-user-GitHub-API): looks up a GitHub user and lists their profile and latest repositories through the GitHub API, built with semantic HTML, CSS and JavaScript. [Open the GitHub user search live page](https://xuaun.github.io/fetch-user-GitHub-API/).
+- [Advice generator](https://github.com/xuaun/advice-generator-app): shows random advice from the Advice Slip API, built with semantic HTML, CSS and JavaScript for a Frontend Mentor challenge. [Open the Advice generator live page](https://xuaun.github.io/advice-generator-app/).
+- [React Base](https://github.com/xuaun/DevQuest-React-Base): React components and props, built with React and Vite for the DevQuest course. [Open the React Base live page](https://xuaun.github.io/DevQuest-React-Base/).
+
+More work is on [my portfolio at xuaun.github.io](https://xuaun.github.io/).
+
+### Volunteering
+
+- <span lang="pt-BR">[Movimento Web para Todos](https://mwpt.com.br/)</span>: digital accessibility volunteer, promoting a more inclusive web in Brazil. August 2025 to present.
+- <span lang="pt-BR">[Mapa Autismo Brasil](https://www.mapaautismobrasil.org.br/)</span>: data science volunteer on the team building a national dashboard on autism data in Brazil. August 2026 to present.
+
+### Education
+
+- Bachelor of Technology in Data Science, UNIVESP (Virtual University of the State of São Paulo). In progress since 2025.
+- Master's degree in Special Education, Federal University of São Carlos (UFSCar). Completed in 2023.
+- Bachelor's degree in Physics, University of São Paulo (USP). Completed in 2019.
+
+### Certificates
+
+- CSS for JavaScript Developers, Josh W. Comeau, 2026.
+- Full Stack Development, DevQuest, 2025.
+- Google Cloud Digital Leader, 2024. [Verify the Google Cloud Digital Leader badge on Credly](https://www.credly.com/badges/cf49b199-627d-430c-9e46-ac62e7fc1b03).
+- Accessibility in Museums, Enap (Brazilian National School of Public Administration), 2020.
+
+### Languages
+
+- Portuguese: native.
+- English: advanced.
+- Brazilian Sign Language (Libras): advanced.
+
+### Accessibility of this page
+
+This README tries to practice what I audit: a single level 1 heading, headings in order, real lists, link text that makes sense out of context, a language set for each section, and no images, badges or animation carrying information. If you find a barrier here or in any of my repositories, please let me know on LinkedIn, linked in the next section.
+
+### Contact
+
+The best way to reach me is a message to [João Araujo on LinkedIn](https://www.linkedin.com/in/joao-victor-araujo-lima/).
+
+<div lang="pt-BR">
+
+## Português
+
+**Especialista em Acessibilidade Digital e Desenvolvedor Front-End**, em São Carlos, SP, Brasil.
+
+### Sobre mim
+
+Trabalho com acessibilidade digital há mais de seis anos. Faço auditorias de produtos web e mobile com base nas Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2, nível AA, e testo com as tecnologias assistivas que as pessoas realmente usam: NVDA, JAWS, VoiceOver e TalkBack. Documento cada problema com passos de reprodução e severidade e escrevo correções em nível de código que os times de desenvolvimento conseguem aplicar: HTML semântico, ARIA, gerenciamento de foco e contraste de cores.
+
+Também sou desenvolvedor front-end, então transformo requisitos de acessibilidade em especificações, critérios de aceite e código funcionando. Sou fluente em Língua Brasileira de Sinais (Libras) e coinventor de uma tecnologia assistiva para surdos sinalizantes patenteada em cinco países.
+
+### Com o que eu trabalho
+
+- **Acessibilidade:** auditorias manuais e automatizadas WCAG 2.2 AA, ARIA, navegação por teclado, gerenciamento de foco, contraste de cores, especificações de correção e critérios de aceite.
+- **Tecnologia assistiva e ferramentas de teste:** NVDA, JAWS, VoiceOver, TalkBack, axe, Lighthouse e Accessibility Scanner, na web, no iOS e no Android.
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Jest e Git.
+- **Pesquisa inclusiva:** testes de usabilidade com pessoas com deficiência, pesquisa de experiência do usuário (UX) e treinamentos de acessibilidade.
+- **Dados:** Python, R, SQL e Power BI.
+
+### Experiência
+
+- **Especialista em Testes de Acessibilidade**, Keeggo (cliente: Caixa). De julho de 2026 até hoje. Auditorias WCAG 2.2 AA de aplicativos bancários web e mobile, testes com leitores de tela e somente com teclado, especificações de correção e treinamento de times.
+- **Professor em curso a distância**, Universidade Federal de São Carlos (UFSCar). De dezembro de 2025 até hoje. Leciono na Especialização em Educação de Surdos: ensino de matemática para surdos e tradução e interpretação de Libras e português nas ciências exatas.
+- **Pesquisador quantitativo de UX e Consultor de Acessibilidade Digital**, FIPT (cliente: Lenovo). De agosto de 2021 a julho de 2026. Pesquisa de UX e especificações de funcionalidades acessíveis, testes de usabilidade e questionários bilíngues (Libras e português) com participantes surdos e treinamentos de acessibilidade.
+- **Consultor de qualidade de conteúdo de matemática**, Duolingo. De abril a novembro de 2024. Testes de acessibilidade de cursos na web e em dispositivos móveis com leitores de tela, além de controle de qualidade e localização para o lançamento do Duolingo Math em português.
+- **Pesquisador quantitativo de UX**, Avenue Code (cliente: Braskem). De maio a agosto de 2024. Testes de usabilidade, entrevistas com usuários e painéis de métricas de UX.
+- **Desenvolvedor full stack**, LUZ Soluções Financeiras. De maio a agosto de 2025. Automação de processos e testes com Python e Django.
+
+### Patente e pesquisa
+
+- Coinventor de um sistema virtual de língua de sinais, tecnologia assistiva para surdos sinalizantes patenteada no Brasil, nos Estados Unidos, na União Europeia, na China e no Japão. Leia a [patente dos Estados Unidos US11836299B1 no Google Patents](https://patents.google.com/patent/US11836299B1/en) ou a [publicação brasileira BR1020230205445A2 no Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
+- Dissertação de mestrado sobre a quantificação de pessoas surdas sinalizantes nos censos brasileiros (UFSCar, 2023).
+- Artigo sobre fatores de aceitação de uma tecnologia de produção textual entre usuários surdos, com o modelo UTAUT2.
+
+### Projetos de front-end
+
+- [Blog pessoal](https://github.com/xuaun/personal-blog-challenge): blog de várias páginas com troca de tema de cores e formulário de newsletter com validação, feito com HTML semântico, CSS Grid e JavaScript para um desafio do Frontend Mentor. [Abrir a página do Blog pessoal no ar](https://xuaun.github.io/personal-blog-challenge/).
+- [Busca de usuários do GitHub](https://github.com/xuaun/fetch-user-GitHub-API): busca um usuário do GitHub e lista o perfil e os repositórios mais recentes pela API do GitHub, feita com HTML semântico, CSS e JavaScript. [Abrir a página da Busca de usuários do GitHub no ar](https://xuaun.github.io/fetch-user-GitHub-API/).
+- [Gerador de conselhos](https://github.com/xuaun/advice-generator-app): mostra conselhos aleatórios da Advice Slip API, feito com HTML semântico, CSS e JavaScript para um desafio do Frontend Mentor. [Abrir a página do Gerador de conselhos no ar](https://xuaun.github.io/advice-generator-app/).
+- [React Base](https://github.com/xuaun/DevQuest-React-Base): componentes e props em React, feito com React e Vite para o curso DevQuest. [Abrir a página do React Base no ar](https://xuaun.github.io/DevQuest-React-Base/).
+
+Há mais trabalhos no [meu portfólio em xuaun.github.io](https://xuaun.github.io/).
+
+### Voluntariado
+
+- [Movimento Web para Todos](https://mwpt.com.br/): voluntário de acessibilidade digital, promovendo uma web mais inclusiva no Brasil. De agosto de 2025 até hoje.
+- [Mapa Autismo Brasil](https://www.mapaautismobrasil.org.br/): voluntário de ciência de dados na equipe que constrói um painel nacional de dados sobre autismo no Brasil. De agosto de 2026 até hoje.
+
+### Formação
+
+- Graduação em Ciência de Dados, UNIVESP (Universidade Virtual do Estado de São Paulo). Em curso desde 2025.
+- Mestrado em Educação Especial, Universidade Federal de São Carlos (UFSCar). Concluído em 2023.
+- Bacharelado em Física, Universidade de São Paulo (USP). Concluído em 2019.
+
+### Certificados
+
+- <span lang="en">CSS for JavaScript Developers</span>, Josh W. Comeau, 2026.
+- <span lang="en">Full Stack Development</span>, DevQuest, 2025.
+- <span lang="en">Google Cloud Digital Leader</span>, 2024. [Verificar o selo Google Cloud Digital Leader na Credly](https://www.credly.com/badges/cf49b199-627d-430c-9e46-ac62e7fc1b03).
+- Acessibilidade em Museus, Enap (Escola Nacional de Administração Pública), 2020.
+
+### Idiomas
+
+- Português: nativo.
+- Inglês: avançado.
+- Língua Brasileira de Sinais (Libras): avançado.
+
+### Acessibilidade desta página
+
+Este README tenta praticar o que eu audito: um único título de nível 1, títulos em ordem, listas de verdade, links cujo texto faz sentido fora de contexto, idioma definido em cada seção e nenhuma imagem, selo ou animação carregando informação. Se você encontrar uma barreira aqui ou em qualquer repositório meu, me avise pelo LinkedIn, que está na próxima seção.
+
+### Contato
+
+O melhor jeito de falar comigo é mandar uma mensagem para [João Araujo no LinkedIn](https://www.linkedin.com/in/joao-victor-araujo-lima/).
+
 </div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/joao-victor-araujo-lima" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin page" title="Linkedin" height="30" width="30" /></a>
-  <a href="https://www.datacamp.com/portfolio/joaovictor-ne" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/6276968?v=4" alt="My Portfolio page at DataCamp" title="Portfolio at DataCamp" height="30" width="30" /></a>
-  <a href="https://www.frontendmentor.io/profile/xuaun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/frontendmentorio/four-card-feature-section/refs/heads/master/images/favicon-32x32.png" alt="My Portfolio page at Frontend Mentor" title="Portfolio at Frontend Mentor" height="30" width="30" /></a>
-</p>
-
-<h3 align="center">My certifications / Badges:</h3>
-<p align="center">
-  <a href="https://www.credly.com/badges/cf49b199-627d-430c-9e46-ac62e7fc1b03/linked_in?t=sfi3rv" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud - Cloud Digital Leader Certification Badge" title="Cloud Digital Leader Certification Badge" height="60" width="60" /></a>
-  <a href="https://www.datacamp.com/certificate/DAA0014709030431" target="blank"><img align="center" src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png" alt="DataCamp - Data Analyst Associate Badge" title="Data Analyst Associate Badge" height="100" width="90" /></a>
-  <a href="https://www.credly.com/badges/74c74344-d92e-4849-9d39-65cd5eea1ad6" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Pendo - Product Analytics Certification Badge" title="Product Analytics Certification Badge" height="60" width="60" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/48f24dccd4e169118d17bab998c3d276e95167df/css.svg" alt="css3" title="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="./src/img/logo_dark.svg" alt="react" title="React" width="40" height="40"/> </a>
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://vite.dev/logo.svg" alt="vite" title="Vite" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="redux" title="Redux" width="40" height="40"/> </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="jest" title="Jest" width="40" height="40"/> </a>
-  <br />
-  <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R language" title="R language" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="SQL - PostgreSQL" title="SQL - PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="40" height="40"/> </a> 
-  <br />
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C language" width="40" height="40"/> </a>   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" title="Unity" width="40" height="40"/> </a>
-  <br />
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" title="GitHub" width="40" height="40"/> </a>   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xuaun">
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuaun&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="top programming languages ​​I used on github" title="Top Programming Languages"/>
-  <!-- </br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=xuaun&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=false" alt="Some of João's statuses on GitHub" title="Statuses on GitHub"/></a> -->
-</p>
-
-<!--
-**xuaun/xuaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
