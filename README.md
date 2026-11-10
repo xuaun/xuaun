@@ -23,7 +23,7 @@ I am also a front-end developer, so I turn accessibility requirements into specs
 ### Experience
 
 - **Accessibility Testing Specialist**, Keeggo (client: Caixa). July 2026 to present. WCAG 2.2 AA audits of web and mobile banking apps, screen reader and keyboard-only testing, remediation specs and team training.
-- **Course Instructor**, Federal University of São Carlos (UFSCar), distance education. December 2025 to present. I teach in the Specialization in Deaf Education: mathematics teaching for the deaf, and Libras and Portuguese translation and interpretation for the exact sciences.
+- **Course Instructor**, Federal University of São Carlos (UFSCar), distance education. December 2025 to present. I teach in the Specialization in Deaf Education (Bilingual Approach): mathematics teaching for the deaf, and Libras and Portuguese translation and interpretation for the exact sciences.
 - **Quantitative UX Researcher and Digital Accessibility Consultant**, FIPT (client: Lenovo). August 2021 to July 2026. UX research and specifications for accessible features, usability tests and bilingual (Libras and Portuguese) surveys with deaf participants, and accessibility training.
 - **Math Content Quality Assurance Consultant**, Duolingo. April to November 2024. Accessibility testing of courses on web and mobile with screen readers, plus quality assurance and localization for the launch of Duolingo Math in Portuguese.
 - **Quantitative UX Researcher**, Avenue Code (client: Braskem). May to August 2024. Usability tests, user interviews and UX metrics dashboards.
@@ -58,9 +58,12 @@ More work is on [my portfolio at xuaun.github.io](https://xuaun.github.io/).
 ### Certificates
 
 - CSS for JavaScript Developers, Josh W. Comeau, 2026.
-- Full Stack Development, DevQuest, 2025.
-- Google Cloud Digital Leader, 2024. [Verify the Google Cloud Digital Leader badge on Credly](https://www.credly.com/badges/cf49b199-627d-430c-9e46-ac62e7fc1b03).
+- The Joy of React, Josh W. Comeau, 2025.
+- Foundations of User Experience (UX) Design, Google, 2024.
+- Accessible Games for Education, UFSCar distance education, 2021.
 - Accessibility in Museums, Enap (Brazilian National School of Public Administration), 2020.
+
+The [full list of licenses and certifications is on LinkedIn](https://www.linkedin.com/in/joao-victor-araujo-lima/details/certifications/).
 
 ### Languages
 
@@ -99,16 +102,16 @@ Também sou desenvolvedor front-end, então transformo requisitos de acessibilid
 ### Experiência
 
 - **Especialista em Testes de Acessibilidade**, Keeggo (cliente: Caixa). De julho de 2026 até hoje. Auditorias WCAG 2.2 AA de aplicativos bancários web e mobile, testes com leitores de tela e somente com teclado, especificações de correção e treinamento de times.
-- **Professor em curso a distância**, Universidade Federal de São Carlos (UFSCar). De dezembro de 2025 até hoje. Leciono na Especialização em Educação de Surdos: ensino de matemática para surdos e tradução e interpretação de Libras e português nas ciências exatas.
-- **Pesquisador quantitativo de UX e Consultor de Acessibilidade Digital**, FIPT (cliente: Lenovo). De agosto de 2021 a julho de 2026. Pesquisa de UX e especificações de funcionalidades acessíveis, testes de usabilidade e questionários bilíngues (Libras e português) com participantes surdos e treinamentos de acessibilidade.
-- **Consultor de qualidade de conteúdo de matemática**, Duolingo. De abril a novembro de 2024. Testes de acessibilidade de cursos na web e em dispositivos móveis com leitores de tela, além de controle de qualidade e localização para o lançamento do Duolingo Math em português.
-- **Pesquisador quantitativo de UX**, Avenue Code (cliente: Braskem). De maio a agosto de 2024. Testes de usabilidade, entrevistas com usuários e painéis de métricas de UX.
-- **Desenvolvedor full stack**, LUZ Soluções Financeiras. De maio a agosto de 2025. Automação de processos e testes com Python e Django.
+- **Professor Formador (EaD)**, Universidade Federal de São Carlos (UFSCar), Secretaria Geral de Educação a Distância (SEaD). De dezembro de 2025 até hoje. Leciono na Especialização em Educação de Surdos (Abordagem Bilíngue) as disciplinas Ensino de Matemática para Surdos e Tradução e Interpretação (Libras e Língua Portuguesa) para Ciências Exatas.
+- **Pesquisador Quantitativo de UX e Consultor de Acessibilidade Digital**, Fundação de Apoio ao IPT, FIPT (cliente: Lenovo). De agosto de 2021 a julho de 2026. Pesquisa de UX e especificações de funcionalidades acessíveis, testes de usabilidade e questionários bilíngues (Libras e português) com participantes surdos e treinamentos de acessibilidade.
+- **Consultor de QA de Conteúdo Matemático e Localização**, Duolingo. De abril a novembro de 2024. Testes de acessibilidade de cursos na web e em dispositivos móveis com leitores de tela, além de controle de qualidade (QA) e localização para o lançamento do Duolingo Math em português.
+- **Pesquisador Quantitativo de UX e Analista de Produto**, Avenue Code (cliente: Braskem). De maio a agosto de 2024. Testes de usabilidade, entrevistas com usuários e painéis de métricas de UX.
+- **Desenvolvedor Full Stack**, LUZ Soluções Financeiras. De maio a agosto de 2025. Automação de processos e testes com Python e Django.
 
 ### Patente e pesquisa
 
 - Coinventor de um sistema virtual de língua de sinais, tecnologia assistiva para surdos sinalizantes patenteada no Brasil, nos Estados Unidos, na União Europeia, na China e no Japão. Leia a [patente dos Estados Unidos US11836299B1 no Google Patents](https://patents.google.com/patent/US11836299B1/en) ou a [publicação brasileira BR1020230205445A2 no Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
-- Dissertação de mestrado sobre a quantificação de pessoas surdas sinalizantes nos censos brasileiros (UFSCar, 2023).
+- Dissertação de mestrado: "Reflexões e possibilidades sobre a quantificação dos surdos sinalizantes nos levantamentos censitários brasileiros" (UFSCar, 2023).
 - Artigo sobre fatores de aceitação de uma tecnologia de produção textual entre usuários surdos, com o modelo UTAUT2.
 
 ### Projetos de front-end
@@ -122,7 +125,7 @@ Há mais trabalhos no [meu portfólio em xuaun.github.io](https://xuaun.github.i
 
 ### Voluntariado
 
-- [Movimento Web para Todos](https://mwpt.com.br/): voluntário de acessibilidade digital, promovendo uma web mais inclusiva no Brasil. De agosto de 2025 até hoje.
+- [Movimento Web para Todos](https://mwpt.com.br/): Voluntário de Acessibilidade Digital, contribuindo para uma web brasileira mais inclusiva e equitativa. De agosto de 2025 até hoje.
 - [Mapa Autismo Brasil](https://www.mapaautismobrasil.org.br/): voluntário de ciência de dados na equipe que constrói um painel nacional de dados sobre autismo no Brasil. De agosto de 2026 até hoje.
 
 ### Formação
@@ -134,9 +137,12 @@ Há mais trabalhos no [meu portfólio em xuaun.github.io](https://xuaun.github.i
 ### Certificados
 
 - <span lang="en">CSS for JavaScript Developers</span>, Josh W. Comeau, 2026.
-- <span lang="en">Full Stack Development</span>, DevQuest, 2025.
-- <span lang="en">Google Cloud Digital Leader</span>, 2024. [Verificar o selo Google Cloud Digital Leader na Credly](https://www.credly.com/badges/cf49b199-627d-430c-9e46-ac62e7fc1b03).
+- <span lang="en">The Joy of React</span>, Josh W. Comeau, 2025.
+- <span lang="en">Foundations of User Experience (UX) Design</span>, Google, 2024.
+- Games Acessíveis para Educação, SEaD-UFSCar, 2021.
 - Acessibilidade em Museus, Enap (Escola Nacional de Administração Pública), 2020.
+
+A [lista completa de licenças e certificados está no LinkedIn](https://www.linkedin.com/in/joao-victor-araujo-lima/details/certifications/).
 
 ### Idiomas
 
