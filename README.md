@@ -7,7 +7,6 @@
 <p>- 💬 I can speak <b>Portuguese</b>, <b>English</b> and <b>Brazilian Sign Language (Libras)</b> :accessibility: </p>
 <p>- 🌱 I’m currently interested in <i>French</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ I'm currently improving my Web Development skills (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>), and my Data Analisys skills (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b> languages) </p>
-<p>- 📫 How to reach me: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 <p>- 😄 Pronouns: <b>He/Him</b> </p>
 
 <h3 align="center">Je m'appelle João Víctor</h3>
@@ -15,14 +14,12 @@
 <p>- 💬 Je peux parler <b>le portugais</b>, <b>l'anglais</b> et <b>la langue des signes brésilienne (Libras)</b> :accessibility: </p>
 <p>- 🌱 J'apprends actuellement le <i>français</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ J'ai amélioré mes compétences en développement Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> et en analyse de données (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
-<p>- 📫 Comment me contacter: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 
 <h3 align="center">Me chamo João Víctor</h3>
 <p>- 🔭 Atualmente estou estudando as áreas de: <i>Desenvolvimento Web (Front-end)</i>, <i>Pesquisa de Experiência do Usuário (UX Researcher)</i>, <i>Análise de Dados</i> e <i>Acessibilidade Digital</i> </p>
 <p>- 💬 Eu falo <b>Português</b>, <b>Inglês</b> e <b>Língua Brasileira de Sinais (Libras)</b> :accessibility: </p>
 <p>- 🌱 Atualmente estou interessado em <i>Francês</i>, <i>BI (Microsoft Power BI)</i>, <i>Unity</i> </p>
 <p>- ⚡ Tenho aprimorado minhas habilidades de <i> Desenvolvimento Web (<b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>Jest</b>, <b>React</b>, <b>JSX</b>, <b>TypeScript</b>, <b>Bootstrap</b>, <b>Aria</b>)</i> e de Análise de Dados (<b>R</b>, <b>SQL (PostgreSQL)</b>, <b>Python</b>) </p>
-<p>- 📫 Como entrar em contato comigo: <a href="https://t.me/joaovic_araujo"> <img src="https://web.telegram.org/k/assets/img/favicon-16x16.png?v=jw3mK7G9Ry" alt="Telegram"/> t.me/joaovic_araujo </a> </p>
 <p>- 😄 Pronomes: <b>Ele/Dele</b> </p>
 
 <h3 align="center">Personal web development projects:</h3>
