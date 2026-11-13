@@ -1,5 +1,7 @@
 # João Araujo
 
+![Banner with the text "João Araujo, Digital Accessibility Specialist & Front-End Developer" on an orange brush stroke, next to a pattern of line drawings with sign language hand shapes and code icons.](src/img/banner-joao-araujo.png)
+
 **Digital Accessibility Specialist & Front-End Developer** based in São Carlos, SP, Brazil.
 
 This page is in English first. <a href="#português" hreflang="pt-BR" lang="pt-BR">A versão em português vem logo depois.</a>
@@ -31,9 +33,10 @@ I am also a front-end developer, so I turn accessibility requirements into specs
 
 ### Patent and research
 
-- Co-inventor of a virtual sign language system, an assistive technology for deaf signers patented in Brazil, the United States, the European Union, China and Japan. Read [United States patent US11836299B1 on Google Patents](https://patents.google.com/patent/US11836299B1/en) or the [Brazilian publication BR1020230205445A2 on Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
+- Co-inventor of a virtual sign language system, an assistive technology for deaf signers patented in Brazil, the United States, the European Union, China and Japan (US11836299B1, BR1020230205445A2, EP4350669A1, CN117850656A and JP2024054093A). Read [United States patent US11836299B1 on Google Patents](https://patents.google.com/patent/US11836299B1/en) or the [Brazilian publication BR1020230205445A2 on Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
+- Research article: "Exploring Acceptance Factors of a Technology for Textual Production among Deaf Users: A UTAUT2-Based Study", in the proceedings of CLIHC 2023, the Latin American Conference on Human-Computer Interaction (ACM Digital Library).
+- Book chapter on mathematics anxiety among deaf students: <span lang="pt-BR">"Surdez e o medo da matemática: um estudo sobre Ansiedade à Matemática de alunos surdos de um município do Estado de São Paulo"</span> (<span lang="pt-BR">Editora De Castro</span> and EDESP-UFSCar, 2023).
 - Master's dissertation: "Reflections and possibilities on the quantification of signing deaf people in Brazilian census surveys" (UFSCar, 2023).
-- Article: "Acceptance Factors of a Technology for Textual Production among Deaf Users (UTAUT2)".
 
 ### Front-end projects
 
@@ -110,9 +113,10 @@ Também sou desenvolvedor front-end, então transformo requisitos de acessibilid
 
 ### Patente e pesquisa
 
-- Coinventor de um sistema virtual de língua de sinais, tecnologia assistiva para surdos sinalizantes patenteada no Brasil, nos Estados Unidos, na União Europeia, na China e no Japão. Leia a [patente dos Estados Unidos US11836299B1 no Google Patents](https://patents.google.com/patent/US11836299B1/en) ou a [publicação brasileira BR1020230205445A2 no Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
+- Coinventor de um sistema virtual de língua de sinais, tecnologia assistiva para surdos sinalizantes patenteada no Brasil, nos Estados Unidos, na União Europeia, na China e no Japão (US11836299B1, BR1020230205445A2, EP4350669A1, CN117850656A e JP2024054093A). Leia a [patente dos Estados Unidos US11836299B1 no Google Patents](https://patents.google.com/patent/US11836299B1/en) ou a [publicação brasileira BR1020230205445A2 no Google Patents](https://patents.google.com/patent/BR102023020544A2/pt).
 - Dissertação de mestrado: "Reflexões e possibilidades sobre a quantificação dos surdos sinalizantes nos levantamentos censitários brasileiros" (UFSCar, 2023).
-- Artigo sobre fatores de aceitação de uma tecnologia de produção textual entre usuários surdos, com o modelo UTAUT2.
+- Artigo científico: <span lang="en">"Exploring Acceptance Factors of a Technology for Textual Production among Deaf Users: A UTAUT2-Based Study"</span>, nos anais do CLIHC 2023, a Conferência Latino-Americana de Interação Humano-Computador (ACM Digital Library).
+- Capítulo de livro: "Surdez e o medo da matemática: um estudo sobre Ansiedade à Matemática de alunos surdos de um município do Estado de São Paulo" (Editora De Castro e EDESP-UFSCar, 2023).
 
 ### Projetos de front-end
 
